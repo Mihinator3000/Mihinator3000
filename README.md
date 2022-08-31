@@ -3,7 +3,7 @@
 ### About me:
 
 - 📚 ITMO University 3rd year student
-- 👨‍💻 Currently working on projects in [Kysect](https://github.com/kysect)
+- 👨‍💻 Currently learing C# on projects in [Kysect](https://github.com/kysect)
 
 ### Some stats:
 
