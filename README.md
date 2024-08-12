@@ -2,8 +2,9 @@
 
 ### About me:
 
-- 📚 ITMO University 3rd year student
-- 👨‍💻 Currently improving my C#/.NET knowledge in [Kysect](https://github.com/kysect)
+- 📚 ITMO University graduate
+- 👨‍💻 .NET Developer at [Signal](https://sgnl.pro)
+- 🐈 Member of [Kysect](https://github.com/kysect) community
 
 ### Some stats:
 
